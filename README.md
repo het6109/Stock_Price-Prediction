@@ -42,10 +42,10 @@ pip install -r requirements.txt
 ### Running the Project
 
 1. Clone the repository.
-2. 
-3. Open the Jupyter Notebook in Jupyter Lab or Jupyter Notebook.
-
-4. Run the notebook cells sequentially.  
+   
+2. Open the Jupyter Notebook in Jupyter Lab or Jupyter Notebook.
+  
+3. Run the notebook cells sequentially.  
    You can change the stock ticker symbol in the notebook to predict prices for different companies by modifying the `ticker` variable.
 
 ### Changing the Stock Ticker
